@@ -3,6 +3,7 @@ public Class Test1{
 
 void m1(){
 //930 am
+//to be stashed
 }
 
 }
